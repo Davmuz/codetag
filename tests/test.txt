@@ -1,0 +1,34 @@
+Test file.
+
+The output should be a list of TODO with progressive numbers from 1 to 18.
+
+# TODO: 1
+#TODO: 2
+Some code # TODO: 3
+Some code #TODO: 4
+Some code# TODO: don't show
+Some code#TODO: don't show
+
+// TODO: 5
+//TODO: 6
+Some code // TODO: 7
+Some code //TODO: 8
+Some code// TODO: don't show
+Some code//TODO: don't show
+
+/* TODO: 9
+/*TODO: 10
+Some code /* TODO: 11
+Some code /*TODO: 12
+Some code/* TODO: don't show
+Some code/*TODO: don't show
+
+* TODO: 13
+*TODO: 14
+ * TODO: 15
+ *TODO: 16
+
+Special characters:
+
+# !!!: 17
+# ???: 18
